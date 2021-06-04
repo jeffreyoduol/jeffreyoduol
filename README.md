@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @jeffreyoduol
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on a seat booking project
 - 📫 How to reach me, email @ jeffreyoduolobuolo@gmail.com
 
